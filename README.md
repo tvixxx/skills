@@ -8,7 +8,7 @@ Frontend developer with 1.5 year of development experience.
 ## Language Skills
 
 * Russian (native)
-* English (intermediate) 
+* English (upper-intermediate) 
 
 ## Technical skills
 
