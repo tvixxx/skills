@@ -2,7 +2,7 @@
 portfolio
 
 # Frontend_KirillSh
-
+Сurrently working as a frontend developer in Piano.io
 Frontend developer with 1.5 year of development experience.
 
 ## Language Skills
